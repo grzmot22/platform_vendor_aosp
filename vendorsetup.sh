@@ -6,3 +6,5 @@ add_lunch_combo jdc_h850-user
 add_lunch_combo jdc_h850-userdebug
 add_lunch_combo jdc_oneplus2-user
 add_lunch_combo jdc_oneplus2-userdebug
+add_lunch_combo jdc_oneplus3-user
+add_lunch_combo jdc_oneplus3-userdebug
